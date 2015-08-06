@@ -1,0 +1,67 @@
+1383
+13136
+περιφερείας, ἢν τις εἰ λάϐῃ καὶ τῇ διαμέτρῳ θεὶς Α τος,τοῦΛ Β Γ τριγώνου, διάμετρος δέ τοῦ Π Σ
+τεμεῖ, τρεῖς ἰσας ταύτῃ ποιήσει ἃς ea; πλιυρὰς
+ἰσογώνιον καὶ ἰσόπλευρον ποιήσει τρίγωνον, si δὴ
+τρεῖς διαμέτρους κυκλώσει, τρίτον δὲ περιμέτρου
+θήσει διάμιτρον, ὁ αὐτὸς καὶ πάλιν κύκλος γενή-
+σεται.
+ι’. Οὐχ οὕτως δὲ ἐπὶ τοῦ τριγώνου· οὐ γὰρ τό τρι-
+τον τςῆ αὐτοῦ περιμέτρου ἣ καθέτου ἴσον τῇ αὐτοῦ
+διαμέτρῳ, ἀλλὰ μεῖζον, ὦστι μείζονα καὶ ἐλάττονα
+καὶ κύκλον καὶ τρίγωνον ποιήσουσιν αἱ τούτου πλευ-
+ραί τι καὶ ἡ διάμετρος καὶ ἡ κάθετος· ἔστι δὲ τοῦτο
+τῆς ἀνισότητος, καὶ περὶ μὲν τῶν ἄλλων τριγώνων
+ὀὐδεὶς εἰς ’ἀπόδειξιν λόγος’ ἐναργὴς γὰρ ἡ θεα,
+οἷον τοῦ ὶσοσκιλοῦς, τοῦ όξυγωνίου, τοῦ ἀμϐλυγω-
+νιου,ἠ ἀπόδειξις δί χρήσιμός ἔστι δειχθῆναι ἐπὶ
+τοῦ ἰσοπλεύρου. Ἐστι δέ αὕτη· ἡ τοῦ τριγώνου
+πλευρὰ καὶ ἡ διάμετρος ἠ διὰ τοῦ κέντρου καὶ μέ-
+σου ἠγμένη καὶ ἡ κάθετος, οὐκ ἱσους κύκλους ποι-
+οῦσιν, ἀλλ’ ἀνὶσους, ἀλλ’ οὐδὲ τρίγωνα ἴσα τῷ αὐτῷ·
+δεῖ δὲ τρίγωνον καὶ κύκλον σχηματογραφῆσαι καὶ
+διῑζαι ἀνίσους κύκλους τοὺς ἔκ τῆς πλευρᾶς τοῦ τρι-
+γώνου γινομένουςκοιὶ τῆς διαμέτρου καὶ τῆς καθέ-
+του,τῷΑΒ Γ τριγὼνῴ· κύκλος γεγράφθω ὀ Μ Φ
+κέντρῳ τό Κ καὶ τῇ Β Ε διαμέτρῳ, ὁ Χ Α κέντρῳ
+τὸΝ καὶ τῇ l-l Γ καθέτῳ, ὁ Π Σ κέντρῳ τὸ Ρ ἡ ἄρα
+Α Β πλευρὰ, ἔστω τοῦ Μ Φ διάμετρος, τοῦ Λ Β Γ
+τριγώνου καὶ rex; X Γ κύκλου διάμετρος ἡ Β Ε ἤτω
+πλευρὰ, τοῦ Ε Β Ζ τρογώνου ἀλλὰ. καὶ ἡ Η Γ κάθε-
+ἐξ ἀνάγκης καὶ τούτου τρίτον· ἐπειδὴ ἑν ἑτέραις
+θ λ(μέλ
+
+triangulum efﬁciet aequiangulum et aequilaterunl
+ar autem circuit Q S, sit latus trianguli C li.
+quod si qui tres diametros in circulum torqueat.
+tertiam partem circumferentia: ponat circuli dia-
+metrum, idem rursus redibit circulus.
+ὅ. At idem hoc non habet locum in triangulo,
+nam tertia pars perimetri aut linea perpendicula-
+l‘is aequale triangulum ei quod ﬁt ex ipsius diame-
+tro non constituunt, sed majus. Quare majorem et
+minorem circulum :itemque majus ac minus trian-
+gulum latera ipsius efﬁcient, itemque diameter et li-
+nea. perpendicularis. Est autem hoc inaequalitatis.
+Ac de aliis quidem triangulis non est quod demon-
+strationem instituamus; potest enim evidenter anim-
+adverti in trian gqu crurum aequalium, in acutangu-
+lo triangula obtuso. Sed operm pretium est demon-
+strare in triangulo mqualiumlaterum. Demonstra-
+tio autem in hunc modum conﬁcitur. Latus trian-
+guli et diameter, quae per centrum ac medium
+ducta est, et perpendicularis linea non efﬁciunt
+aequales circulos, sed inaequales, imo neque trian-
+gula eidem aequalia etﬁciun. Oportet describere
+trianguli et circuli ﬁguram ac ostendere insequa-
+les esse circulos qui ex latere tringuli idiametro
+ac linea perpendiculari efﬁciuntur.
+In triangulo A Β C circuIUS Μ U describatur, sit-
+que centrum G. Itemque circum diametrum Β Ιιὶ
+circulus Χ L ducatur sitque centrum N. Itemque
+circum perpendicularem lineam C C, circulus Ο S
+describatur, sitque centrum Β. Latus ergo A Β
+tringuli Α Β C sit diameter circuli Μ U et diameter
+B E circuli X L sit latus tringuli E Β F. Praeterea
+G C perpendicularis linea trianguli Δ Β Ο, ἀίδηλοι
+qui circum trianguli perpendiculum: lineam, aut

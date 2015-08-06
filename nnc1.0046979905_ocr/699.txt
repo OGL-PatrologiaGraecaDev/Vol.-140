@@ -1,0 +1,62 @@
+1367
+1368
+εστὶ τοῦ ΑΒ Γ Δ τετραγώνου, οὗ διάμετροι αἱ Ν Ω. Α ἀλλά xui ἀπό τῆς Γ ἐπὶ τὴν Καῖ τέμνουσι κατὰτὸ Δ
+Μ Θ ἔστι δὲ διαστήματα ἶσα τῇ Μ Χ, Χ Θ, Θ P
+αναγκαίως καὶ τὸ Θ κέντρον ἐστὶ τοῦ Ν Ω Ψ Σκαὶ
+imi ὡς πρὸς τὸ Χ τὸ Α Β Γ Δ ἐστὶν, ὰ).λά καὶ τὸ Ν
+Ω,ΩΘ xui πρός τό Θ τό ΝΩ. Ψ Σ, ἀλλὰ τό Α Γ
+Χ Ρ, xui τό Ν Σ ‘i' Ω, ἄρα τετράγωνον τό ἐκ τῆς Ν Ω
+διαμέτρου συνεστακός, ἶσόν ἐστι τῷ Α Β ΓΔ τετρα-
+γώνῳ · ὧν γὰρ ἶσα τὰ μέρη, καὶ ἷσά ταύτά ἐστι. T6
+ἄρα τῆς ἐκ τῆς γραμμῆς ἁρχομένηςΝ Ω διαμέτρου
+τετράγωνον, ἴσοις ἔχον πλευρὰς, ἶσόν ἐστι τῷ Α Β Γ Δ
+τετραγώνῳ οὗπέρ ἔστι διάμετροςὴ ΝΩ, καὶ ἐδείχθη
+παρ’ ἡμῶν τοῦτο καθὼς ἔδει. Δειχθήσεται δὲ καὶ τό
+διπλάσιον. Ἐστι δε οὕτως ’
+β’. Ἠ τοῦ τετραγώνου διάμετρος τρισὶν ἴσαις
+ταύτῃ συζευχθείσα εὐθείαις διπλάσιον ποιήσει τε-
+οὖ ἐστι διάμετμος. Δεὶ δὴ δεῖξαι ὅτι
+τράγωνον,
+αὕτη ἠ διάμετρος τρισὶν ἴσαις ταύτῃ συντεθεῖσα
+πλευραῖς, διπλάσιον ποιήσει τετράγωνον τοῦ οὗ ἐστι
+διάμετρος. Γεγράφθω τὸ Α Β Γ Δ τετράγωνον, καὶ
+ἁχθήτω διάμετρος ἠ Β I‘xui ποιήσει ὅμοια τα Β Δ,
+Γ Α, Β Γ. ’Ἤχθω ἀπό τῆς ΒΓ διαμέτρου γραμμὴ
+εὐθεῖα ἐπὶ τὴν Κῖση ταύτῃ, ὡσαύτως καὶ ἀπο της
+ἐπὶ τὴν Λ ἴση ταύτῃ, σῦλα δὴ xui ἀπὸ τῆς Λ ἐπὶ
+την Γ κατὰ τὸν αὐτόν λόγον, xui ἀπὸ τῆς Γ ἐπὶ τὴν
+Β, τετμήσθω δε κατὰ διαμέτρου τό ἐκ τούτων τετρά-
+γωνον ,ἤχθω γοῦν ἀπὸ τῆς Β ἐπὶ τὴν Α διάμετρος,
+σχῆμα τοῦ τετραγώνου τε xui ἰσοτερον. Ἐκεῖ γὰρ
+
+est intervallo quod est inter PT, erit quoque TR
+aequale ipsi PM. Atqui quae eidem sunt aequalia, illa
+sunt inter se aequalia. Quare intervalla MP, PT,
+TR, aequalia inter se erunt. Et quoniam P est cen-
+ξιῖιῖώ ᾇυᾷάιιειίἈΒρι), cujus eaea; elidi n6, C e61)"; at
+MT, sunt autem intervalla MP, ΡΤ, TR, aequalia
+inter se, necessario Tcentrum eritquadradi NOSQ.
+Et quoniam ut se habet ABCD quadratum ad
+suum centrum P : et praeterea ΝΟ, ΜΤ ad idem
+centrum : ita quoque NOSQ se habet ad Τ, cen-
+trum : et praeterea AC, PR : quadratum ergo NQ,
+SO, quod ex diametro ΝΟ constitutum est aequale
+quadrato ABCD. Quorum enim partes eunt aequa-
+les, et ea inter se aequalia. Quadratum ergo quod
+ex diametro NO, tanquam linea initiati, constitui-
+tur, latera aequalia habens, est zequale quadrato
+ABCD, cujus diameter est ΝΟ. Atque hoc a nobis
+demonstratum est ut est ut oportuit. Demonstrabi-
+tur etiamex alteradiametroduplumquadrati effici
+hunc in modum.
+2. Quadrati diametcr tribus sibi mqualibus re—
+ctis copulata, efﬁciet quadrati, cujus est diameter
+duplum. Oportetautem demonstrare hanc ipsam
+diametrum hac ratione cum mqualibus sibi lateri-
+ribus conjunctam, eﬂ’ccturam duplum quadrati il-
+lius cujus est diameter. Describatur A BC υ qua-
+dratum. Ducatur diameter Β C et eﬂiciat similia
+BDCA. Ducatur ab eadem BC diametro linea
+recta in K quae sit ipsi diametro aequalis. Eodem
+modoKin Ι, quae sit illi aequalis. praeterea L
+in C eadem ratione, et a C in Β : secetur vero dia-

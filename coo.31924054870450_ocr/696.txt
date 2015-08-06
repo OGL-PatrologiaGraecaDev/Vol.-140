@@ -1,0 +1,64 @@
+1373
+τρος συνέστησε 16 ΒΚ Λ Γ τετράγωνον, οὗ πλευρά Α κέντρον τὸ Χ οὕτως καὶ τοῦ Ν Ω Γ Ξ τετραγώνου
+γέγονεν. Ἔχει δε τὸ μεν, Δ Β Γ Δ δύο τρίγωνα τά
+Δ ΒΓ τὸ δε Β K A Γ ο τέσσαρα ἶσα τοῖς δυσὶ τὸ
+ΔΒΚΔΛΚΔΓΛΔΓ Β, οὔδε τά τεταρδύο τοῖς
+τινος δυσὶν ἡμίσεσιν ἶσα, 1'6 ὅλον διπλάσιόν ἐστιν
+αὐτοῦ, τοῦ Α Β Γ Δ ο ἄρα τό Β Κ Λ Γ τετράγω-
+νον διπλάσιόν ἐστιν. Ἠ ἄρα τοῦ τετραγώνου τῶν
+γωνιῶν διάμετρος διπλάσιον αὑτοῦ συνίστησιν ἀεὶ
+τετράγωνον, ὅπερ ἔδει δεῖξαι. Δεικνύειν δε δεῖ
+ὁμολογουμένως τὰ ἀποδειχθέντα. Δεῖ γοῦν δεῖξαι
+ὃτι καὶ ἡ Ν Ω διάμετρος τῶν εὐθειῶν τοῦ Α Β Δ
+τετραγώνου, τετραγώνου τε θεῖσα πλευρὰ ἶσον καὶ
+πάλιν αὖτό ποιεῖ οὗπέρ ἐστι διάμετρος. Ἐπεὶ τοίνυν
+μέσον τῶν ἄγ’ ἑκάτερον ἀνάλογόν ἐστι τὸ Ν τῆς Β Α
+πλευρᾶς, τοῦ Α Β Γ Δ τετραγώνου, ἔστι δε καὶ ἠ
+Ν 2 ἴση τῇ Δ Β, ὡς ἀπεδείχθη, καὶ ἠ Α μέση 6nd-
+λογός ἐστι τῆς Σ Ν. Ἐπεὶ δε τῆς Ν διαμέτρου πέρας
+ἆστὶ τὸ Ω τοῦ Α Β Γ Δ τετραγώνου, ἔστι δὴ πέρατα
+τῆς Α Β πλευρᾶς ἠ Γ Δ, καὶ ἠ Ω μέση ἀνάλογός
+ἐστι τῇ Δ Γ. Καὶ ἐπεὶ δε ἡ Α γωνία μέση ἀνάλογος
+έστι τῇ Ν Σ πλευρᾷ, καὶ ἠ Γ γωνία μέση ἀνάλογος
+ἔστι τῇ Ω Ρ πλευρᾷ ο τοῖς γὰρ ἴσοις ἶσα προστεθέντα,
+πάντα ἶσοί ἔστιν · ἐπεὶ δε τῇ Ν Ω διαμέτρῳ μέση
+ἀνάλογος ἔστιν ἠ Χ ὡς τοῦ Α Β Γ Δ κέντρου, ὑπάρ-
+χει δεὴΝΩτῇ ΑΒῖση, ἀλλὰ δὴ καὶτῇ Δ Γ ἀναγ-
+καίως καὶ τὸ Θ κέντρῳ ἐστι τοῦ Ν Ω Γ Σ τετραγώνου,
+ἐπειδὴ τὸ Α μέση ἀνάλογος ἐστι τῇ Ν Σ πλευρᾷ. Ὠς
+γὰρ τοῦ Α Β Γ Δ τετραγώνου ἡ Ν Ως διάμετρος, ἧς
+τῷ οὗ ἦν τετραγώνου, ὅπερ ἔδει δεῖξαι ο και ἐπεί
+π
+
+THEODORI ΙΙ IMP. DE COMMUNIONE NATURALI.
+ciuntur, sive sint circuli, sive quadrata. Esto A Β C C dia proportionalis diametri Ν 0. et est media illa
+Ι) quadratum, supra ostensum est Β C diametrum quadratiA Β CD centrum. Est autem N Ο linea
+constituisse Β Κ Ι, C quadratum, cujus latus ipsa aqualis linea A Β, et praterea linea ι) C, necessa-
+diametereﬂecta est. Habetautem quadratum ΑΒ(ὶο
+duo triangula, nempe D Β C et A Β C. At quadratum
+B K L C habet quatuor triangula aqualia. nempe
+DBK, DL Κ, D C L,D C Β. Quorum duo sunt
+aqualia duobus illis qua illud superius quadratum
+constituunt. Cujus vero quatuor partes sunt tanta,
+utharum dua duabus dimidiis partibus alicujus sint
+aquales, certe totum illud est duplum hujus. Quare
+quadratum Β Κ Ι, C estduplum quadrati Α Β C D.
+Diametey ergo angulorum quadrati duplum ip-
+sius quadrati constituit quadratum, quod oportuit
+demonstrare . Oportet a utem hoc ipsum ex confessis
+apertissime declarare. Demonstrandum est igitur ο linea N 0, ita quoque P Β estaqualis linea Α C. Et
+quod diameter rectarum linearum Ν Ο, quadrati
+Δ Β C D, si ﬁatlatus quadratum aequale constituat
+ei quadrato, cujus est diameter. Quoniam autem
+N est medium utrinque proportionale lateris A Β in
+quadrato Α Β C ι). Estautem N Ο aqualislinea ΑΒ,
+ut prius demonstratum est, sane A medium alterum
+proportionale erit linea Ο Ν. Quoniam autem
+diametri N quadratiA Β C D, terminus est 0 :
+sunt autem C D αετωὶΠὶ lateris Α Β, erit Ο simili-
+ter medium proportionale lateris Ι) C. Et quoniam
+angulus medius Α est proportionnalis lateris
+Ν Ο, angulus quoque C erit medius proportio-
+nalis lateri 0 S. Equalibus enim aequalia si addan-
+tur omnia sunt aqualia. Quoniam autem P est me-
+quoniam latera quadrati Α Β C D sunt aqualia late-

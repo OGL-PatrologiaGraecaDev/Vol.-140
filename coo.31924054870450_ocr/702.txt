@@ -1,0 +1,62 @@
+1386
+ἴσαις ταύτῃ Α Β Γ ἀπαρτίζει τὸ τρίγωνον Α ΒΓ, Α λαϐοῦσα, ἐξ ἀνάγκης τῷ οὗ ἶπλευρὰ, ἴσον ἐποίησε
+ἀναγκαίως ἡ τοῦ Α Β Γ Α Β διάμετρος τεθεῖσα μεί-
+ζονα κύκλον συνέστησε τοῖς τοῦ τριγώνου καθέτου
+καὶ διαμέτρου συσταθησομένοις κύκλοις τόνΜ Φ·
+ἐπεὶ δὲ ἠ Γ Η κάθετος οὐκ ἴση τῇ Α Β πλευρᾷ κατ’
+ἔλαττον, ἔστι δε καὶ αὕτη διάμετρος τοῦ Π Σ κύ-
+κλου, ἀναγκαίως ἐστὶ καὶ ὁκύκλος οὗ αὕτη διάμε-
+τρος Π Σ, κατ’ ἔλαττον ἄνισος τῷ Μ Φ κύκλῳ, οὗ
+διάμετρος ἡ ΑΒ, καὶ τὸ ἄραΓ ΜΘ τρίγωνον ὃ
+ἡ Α Γκάθετος καὶ διάμετρος, τοῦ Α Β Γ τριγώνου
+καὶ τοῦ ΠΣ κύκλου, πλευρὰ γεναμένη, συνέστησεν,
+ἄνισόν ἔστι, κατ⁹ ἔλαττον δὲ τοῦ Α Β Γ τριγώνου ·
+αἱ γὰρ πλευραὶ ὑποτείνουσαι ἀλλήλας, μεὶζους ἑαυ-
+τὰς τῆς διαμέτρου καὶ καθέτου ποιοῦσι πάλιν, ἐπεὶ
+ἡ Βτοῦ Α Γ τριγώνου ούκ ἴση τῇ ἑαυτοῦ πλευρᾷ
+Β Γ ἔστιν ὅπου ἂν -περάσῃ, εἰ μήτι κατά τόΓ ὅ
+ἐστι πέρας τῆς Β Γ πλευρᾶς, καὶ γενήσεται καὶ
+αὕτη πλευρὰ, 6 τε καὶ του τῆς διαμέτρου ἀποστῇ
+ὀνόματος, ἄνισος, κατ’ ἔλαττόν ἐστι τῆς Β Σ πλευρᾶς,
+ὑπάρχει δὲ ἡ αύτὴ καὶ τοῦ Χ Λ κύκλου διάμετρος,
+ἀναγκαίως καὶ 6 Χ Λ κύκλος ἄνισος κατ’ ἔλαττόν
+ἔστι τῷ Μ Φ κύκλῳ οὗ διάμετρος ἠ Α Β · ἡ γὰρ Β Γ
+ἷση ταύτῃ ἐστὶ, καὶ τὸ ἄραΕΒΖ τρίγωνον ὃ ἡ
+κοινὴ διάμετρος, τοῦ Λ Β Γ τριγώνου καὶ τοῦ Χ Λ
+κύκλου πλευρὰ γεναμένη, συνέστησεν οἰνισὸν ἐστι,
+κατ’ ἔλαττον δε, τῷ Α Β Γ τριγώνῳ ’πάλιν 6“: ἡ διά-
+μετρος τού Μ κύκλου, ἐπειδὴ καὶ πλευρά ἐστι τοῦ
+ΑΒ Γ τριγώνου, τὰς Β ΩΑ Ω πλευρὰς ἴσας ταύτῃ
+Ρλτιιοι. Gn. CXL.
+
+1385
+diametrum ductalinea efﬁciuntur. Quoniam autem Ο Α Β circulum M U, diameter vero Β Ε circulum
+linea perpendicularis Β C non est aequalis ipsi AB,
+est autem diameter circuliQ S, necessario circu-
+lusQS, cujus est ipsa diameter, erit minor et
+inaequalis circulo Μ U, cujus diameter est AB. Tri-
+angulum ergo G ll C, cujus linea perpendicularis
+estA C, et diametertrianguli Α Β C et circuli Ο S,
+effecta latus, constituit trianguluminazquale, et mi-
+nus triangulo A Β C. Nam quwlatera substern untur
+sibi invicem ipsa majora se efﬁciunt diametro et
+linea perpendiculari. Rursus quoniam Β trianguli
+Α Β C non eo usque protenditur ut sit aequale lateri
+BC, eritubi terminatur, si nonin C terminatur,
+qui est terminus lateris Β C. Terminabitur ergo
+in E, et ﬁet latus, siquidem nomen diametri non
+oportuit ostendere.
+retineat, eritque inaequalis et minor latere Β C. υ 6. Praeterea“) operae pretium existimamus osa
+Est autem Β Ε diameter circuli X L ; necessario
+igitur circulus Χ L erit inaequalis et minor circulo
+Μ U cujus diameter est Α Β ; nam linea Β C huic
+aequalis est, et triangulum igitur E Β F quod dia-
+meter circulix L latus effecta constituit est inae-
+quale et minus triangulo A Β C. Rursus diameter
+circuliM U, quoniam etiam latus est trianguli
+A Β C, assumptis lateribus Β Ο, Α Ο, aequalibus, ne-
+cessario constituit triangulum A Β 0, aequale ei
+cujus est latus A Β. Et quoniam latus A Β majus
+est diametro Β Ε, et ipsum est quoque majus li-
+nea perpendiculari G C, constituit autem diameter
+(l) Haec usque ad num. 7 non puto esse ipsius auctoris. Vide Praefationem.
